@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/raw/lfw/*
+data/raw/rfw/*
+data/raw/rfw_pairs/*
+!data/raw/README.md
+
+data/processed/*
+!data/processed/.gitkeep
+
+outputs/logs/*
