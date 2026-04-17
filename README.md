@@ -7,7 +7,7 @@ This repository accompanies the paper:
 **When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning**
 
 ## Paper
-arXiv: https://arxiv.org/labs/2604.15038
+arXiv: https://arxiv.org/abs/2604.15038
 DOI: https://doi.org/10.5281/zenodo.19622095
 
 ## Overview
