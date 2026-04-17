@@ -7,7 +7,8 @@ This repository accompanies the paper:
 **When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning**
 
 ## Paper
-arXiv: Pending
+arXiv: https://arxiv.org/labs/2604.15038
+DOI: https://doi.org/10.5281/zenodo.19622095
 
 ## Overview
 This project investigates whether commonly used fairness metrics produce consistent conclusions when applied to the same machine learning model. It introduces the **Fairness Disagreement Index (FDI)**, a quantitative measure of disagreement across fairness metrics.
@@ -66,11 +67,18 @@ python src/compute_fdi_arcface.py
 - Comparative figures across models
 
 ## Citation
+
+If you use this work, please cite:
+
 ```bibtex
 @article{alsayed2026fdi,
   title={When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning},
   author={Alsayed, Khalid Adnan},
-  year={2026}
+  year={2026},
+  eprint={2604.15038},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  doi={10.5281/zenodo.19622095}
 }
 ```
 
